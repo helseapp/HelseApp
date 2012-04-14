@@ -1,0 +1,37 @@
+Prosjektbeskrivelse
+
+Vi vil lage en applikasjon som gir hjemmeomsorgen oversikt over sine pasienter. Applikasjonen vil også gjøre det lettere for ansatte å kommunisere med pasientene sine og gjøre deres hverdag mer effektivt.
+
+Arbeidsstedet vil ha mulighet til å gi enkelte eller fellesbeskjeder som når ansatte som er pålogget.
+
+Funksjoner for arbeidsstedet/admin:
+ - Sende fellesbeskjeder
+ - Sende enkeltbeskjeder
+ - Se på kart hvor pasientene bor
+ - Se på kart hvilken pasient har besøk
+ 
+
+Funksjoner for ansatte:
+ - Se på kart hvor de skal på besøk
+ - Se en To-Do liste som kan hukes av dersom det er gjort.
+ - Merkere oppgaver som ikke gjort slik at neste man er klar over det
+ - Motta beskjeder og identifisere prioriteten av beskjeden.
+ - Ha oversikt over de de skal besøke den dagen:
+	- Ringe knapp
+	- Vite om pasienten har bursdag
+	- Lese andre ansattes notater på pasienten.
+		- Eksempler på notater kan være:
+			- " Han er veldig interessert i biler"
+			- " Veldig stille, er ikke glad i bråk. Vil helst ikke snakke"
+			- "Har en katt som røyter veldig mye."
+			- "Veldig glad i sjokolade, pass på at hun ikke spiser for mye!"
+	- Skrive inn notater for andre ansatte å lese.
+	- Enkel loggføring av:
+		- spisevaner
+		- humør
+		- husets tilstand
+		- aktivitetsnivå?
+		- medikamenter (om de blir tatt)
+
+ - "Inn- og utsjekking" for hvert besøk. Dette bidrar til måling av gjennomsnittstiden hver ansatte bruker hos en patient.
+-  
