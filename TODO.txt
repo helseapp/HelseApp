@@ -1,0 +1,31 @@
+To do 
+
+14.04
+- First draft av login skjerm og dagens plan
+- Alle pasienter på et kart ved hjelp av Google Maps
+- Få beskjeder til å fungere. Vises i show siden til hver employee. 
+- Lage en message-controller. 
+- Lage en kontroller som viser info til Ansatte. (dagens plan siden)
+- Begynne å lage en template som henter data fra forskjellige sider (partials).
+- Finne ut av hvordan oppgaver skal fungere. (En tabell med oppgaver og oppgave-ID). 
+- Tabell som knytter opp til pasient. Skal de henge sammen med pasient eller besøk? 
+
+Kat: Beskjeder + lager en liten login. Ser beskjeder. 
+Ola: Begynne med Besøk og linke dette til Oppgaver. 
+Besøk: 
+  dato - når (dato det burde gjøres)
+  datostart (kl)
+  datoslutt (kl)
+  ansatt id
+  pasient id
+  (pasient notat)
+  status (tick off) (?) eller hvis datoslutt ! null
+  
+Oppgave: 
+  oppgave_id
+  beskrivelse
+  (ikon)
+  
+Link mellom besøk og oppgave med tick-off boolean (status)
+
+Neste møte: mandag eller tirsdag. 
